@@ -1,0 +1,9 @@
+streamlit
+groq
+pydub
+pandas
+langchain
+streamlit-javascript
+ffmpeg-python
+langchain-groq
+google-generativeai

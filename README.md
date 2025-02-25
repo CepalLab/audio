@@ -1,2 +1,1 @@
-# audio
-transcriptor de audio y generador de miutas
+# audio_quai
